@@ -1,32 +1,6 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="my website.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
@@ -34,7 +8,6 @@ After you're finished please remove all the comments and instructions!
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -42,14 +15,10 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -58,7 +27,6 @@ After you're finished please remove all the comments and instructions!
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [The-Jimmy-Project] <a name="about-project"></a>
 
@@ -66,12 +34,34 @@ After you're finished please remove all the comments and instructions!
 
 **[The-Jimmy-Project]** is my first professional project as a Microverse student. It aims at learning and applying basic concepts such as creating feature branches and applying linters. 
 
+## 🛠 Built With <a name="built-with"></a>
+Visual Studio Code using HTML and Css Languages
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+
+  <summary>Hello Microverse</summary>
+  <ul>
+    <li><a href="https://html.com/">HTML</a></li>
+    <li><a href="https://css.com/">CSS</a><li>
+  </ul>
+</details>
+
+
+### Key Features <a name="key-features"></a>
+- [Feature1]:Setup Microverse linter
+- [Feature2]:Setup a professional Github repository
+- [Feature3]:Use gitHub flow
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > You can benifit from my repo to make it easier for you to understand and create your own project in day two of week one in the first module in Microverse program. The README.md file can be a manifistation of how your README.md file should look like after applying your customization to Microverse template 
 
+### Prerequisites
+In order to run this project you need: to dowload it or clone it to your machine.
 
 ### Setup
 
@@ -85,7 +75,6 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -98,7 +87,10 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+## 🔭 Future Features <a name="future-features"></a>
+[Feature1] :Add Javascript
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -115,7 +107,6 @@ If you like this project, subscribe to my [Youtube Channel](https://www.youtube.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -123,7 +114,6 @@ I would like to thank my Microverse learning partners: Winner, Marie and Ismail.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
